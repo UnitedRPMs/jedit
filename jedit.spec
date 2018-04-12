@@ -91,7 +91,7 @@ rm -rf %{buildroot}
 * Thu Apr 12 2018 David Vásquez <davidjeremias82 AT gmail DOT com> - 5.5.0-1
 - Updated to 5.5.0
 
-* Mon Jul 03 2016 David Vásquez <davidjeremias82 AT gmail DOT com> - 5.4.0-1
+* Sun Jul 03 2016 David Vásquez <davidjeremias82 AT gmail DOT com> - 5.4.0-1
 - Updated to 5.4.0
 
 * Wed Mar 30 2016 David Vásquez <davidjeremias82 AT gmail DOT com> - 5.3.0-1
