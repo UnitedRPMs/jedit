@@ -5,7 +5,7 @@ AutoReqProv: no
 
 Summary: Programmer's text editor written in Java
 Name: jedit
-Version: 5.4.0
+Version: 5.5.0
 Release: 1%{?dist}
 License: GPL
 Group: Applications/Editors
@@ -87,6 +87,9 @@ rm -rf %{buildroot}
 
 
 %changelog
+
+* Thu Apr 12 2018 David Vásquez <davidjeremias82 AT gmail DOT com> - 5.5.0-1
+- Updated to 5.5.0
 
 * Mon Jul 03 2016 David Vásquez <davidjeremias82 AT gmail DOT com> - 5.4.0-1
 - Updated to 5.4.0
