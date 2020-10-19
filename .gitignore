@@ -3,5 +3,5 @@ BUILDROOT/*
 RPMS/*
 SPECS/*
 SRPMS/*
-jedit*.jar
+*.jar
 .directory
